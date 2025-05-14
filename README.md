@@ -89,10 +89,15 @@ To run these notebooks, you will need:
     -   SQLite
     -   Power BI Desktop
 
+## git clone 
+https://github.com/Ijeoma1179/Data_science_capstone_project.git
 ## Insights
 Top genres contributing to revenue include Rock, Latin, and Metal
 
 Predictive models were able to explain up to ~80% of invoice amount variation using engineered features
+## Next Step 
+Deploy the saved model 
+## Author 
 
 
 
