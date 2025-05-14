@@ -35,10 +35,8 @@ T•	To Identify artists with the highest sales and analyze their sales trends o
 
 You can download and open the full interactive dashboard here:
 
-👉 [Download Power BI Dashboard](PowerBI/sales_dashboard.pbix)
+https://github.com/Ijeoma1179/Data_science_capstone_project/blob/main/Chinook%20PowerBI%20dashboard%20latest.pbix
 
-
--
 
 **Part Two**:  Predictive Modeling
 1. To examine the structure and relationships in the Chinook database using SQL queries and Identify the key tables and attributes needed to calculate Customer Lifetime Value (CLV). 
@@ -88,6 +86,15 @@ To run these notebooks, you will need:
     -   matplotlib
     -   seaborn
     -   SQLAlchemy (if connecting directly to the database)
-##
- 
+    -   SQLite
+    -   Power BI Desktop
+
+## Insights
+Top genres contributing to revenue include Rock, Latin, and Metal
+
+Predictive models were able to explain up to ~80% of invoice amount variation using engineered features
+
+
+
+
     -   
