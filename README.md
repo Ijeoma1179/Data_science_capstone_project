@@ -98,8 +98,9 @@ Predictive models were able to explain up to ~80% of invoice amount variation us
 ## Next Step 
 Deploy the saved model 
 ## Author 
+Developed by Nwadike Ijeoma Mary, a passionate DATA SCIENTIST with a focus on creating scalable, impactful solutions.
 
-
+For queries or collaborations, feel free to reach out at aijayij@gmail.com.
 
 
     -   
