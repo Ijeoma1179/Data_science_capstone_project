@@ -95,8 +95,29 @@ https://github.com/Ijeoma1179/Data_science_capstone_project.git
 Top genres contributing to revenue include Rock, Latin, and Metal
 
 Predictive models were able to explain up to ~80% of invoice amount variation using engineered features
+## **Model Evaluation Summary**
+In this project, three regression models were evaluated to predict the target variable: Linear Regression, Random Forest Regressor, and Gradient Boosting Regressor. Each model was trained on the top features selected based on feature importance, then evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
+Models Used:
+Linear Regression: A simple, interpretable model that assumes a linear relationship between features and target.
+Random Forest Regressor: An ensemble method using multiple decision trees to capture complex, nonlinear relationships.
+Gradient Boosting Regressor: Another ensemble technique that builds trees sequentially to reduce prediction errors.
+
+**Evaluation Results:**
+Model	Mean Squared Error (MSE)	R-squared (R²)
+Linear Regression	0.00779	0.312 (positive fit)
+Random Forest	0.01451	-0.281 (poor fit)
+Gradient Boosting	0.01685	-0.487 (poor fit)
+
+## **Conclusion:**
+Among the three models, Linear Regression performed the best, achieving the lowest MSE and the only positive R² value, indicating it explained a meaningful portion of the variance in the data. The ensemble models (Random Forest and Gradient Boosting) showed higher errors and negative R² scores, suggesting poorer predictive performance on this dataset.
+
+**Recommendation:**
+Given these results, the Linear Regression model is recommended for this task due to its superior accuracy and reliability on the current data.
+
 ## Next Step 
-Deploy the saved model 
+-Deploy the saved model 
+- Future work may include hyperparameter tuning or using more data to improve the performance of ensemble methods.
+
 ## Author 
 Developed by Nwadike Ijeoma Mary, a passionate DATA SCIENTIST with a focus on creating scalable, impactful solutions.
 
