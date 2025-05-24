@@ -25,12 +25,19 @@ The [Chinook Database] is a sample database representing a digital media store, 
 ## Project Objectives
 **Part one:**##:
 Sales Analysis with SQl and Power BI
-T•	To Identify artists with the highest sales and analyze their sales trends over time. 
+
+•	To Identify artists with the highest sales and analyze their sales trends over time. 
+
 •	To  Segment customers based on purchase behavior and identify key characteristics of high-value customers. 
+
 •	To determine the most popular music genres and analyze the change in genre popularity over different periods. 
+
 •	To analyze monthly and yearly sales trends, including seasonal effects and significant sales events. 
+
 •	To calculate the lifetime value of customers based on their purchase history and provide recommendations for improving customer retention. 
+
 •	To perform association rule mining to find common combinations of tracks or albums purchased together.
+
 ## Power BI Visuals :
 
 You can download and open the full interactive dashboard here:
